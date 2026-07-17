@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,100:0077a8&height=200&section=header&text=Choyon%20Dhor&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20AI%20%26%20ML%20Researcher%20%7C%20Metropolitan%20University%2C%20Bangladesh&descAlignY=58&descSize=16&animation=fadeIn" />
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=0077A8&center=true&vCenter=true&width=700&lines=Multi-Modal+Deep+Learning+%7C+Medical+AI;Short-Term+Load+Forecasting+%7C+Energy+Systems;Targeting+Funded+Master%27s+in+Europe+(AI%2FML);CGPA+3.99%2F4.00+%7C+3%C3%97+Merit+Scholar;Building+BD-TBNet+%E2%80%94+TB+Diagnosis+from+Bangladesh+Data" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,100:0077a8&height=180&section=header&text=Choyon+Dhor&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=CSE+Student+%7C+AI+%26+ML+Researcher+%7C+Metropolitan+University%2C+Bangladesh&descAlignY=62&descSize=15&animation=fadeIn" />
 
 <br/>
 
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0077A8&center=true&vCenter=true&width=600&height=45&lines=Multi-Modal+Deep+Learning+%7C+Medical+AI;Building+BD-TBNet+for+TB+Diagnosis;CGPA+3.99%2F4.00+%7C+3x+Merit+Scholar;Targeting+Funded+Masters+in+Europe;AI+%7C+ML+%7C+Healthcare+Research" alt="Typing SVG" />
+
+<br/><br/>
+
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-choyondhor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/choyondhor)
-[![Email](https://img.shields.io/badge/Email-choyondhorshuvo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choyondhorshuvo@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-choyondhorshuvo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choyondhorshuvo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Choyon--Dhor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Choyon-Dhor)
 
 <br/>
