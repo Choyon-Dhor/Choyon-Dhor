@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,100:0077a8&height=180&section=header&text=Choyon+Dhor&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=CSE+Student+%7C+AI+%26+ML+Researcher+%7C+Metropolitan+University%2C+Bangladesh&descAlignY=62&descSize=15&animation=fadeIn" />
+<!-- HEADER WAVE — using correct type=wave per capsule-render docs -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1a3a5c,100:0077a8&height=180&section=header&text=Choyon%20Dhor&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=CSE%20Student%20%7C%20AI%20%26%20ML%20Researcher%20%7C%20Metropolitan%20University%2C%20Bangladesh&descAlignY=62&descSize=15" />
 
 <br/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0077A8&center=true&vCenter=true&width=600&height=45&lines=Multi-Modal+Deep+Learning+%7C+Medical+AI;Building+BD-TBNet+for+TB+Diagnosis;CGPA+3.99%2F4.00+%7C+3x+Merit+Scholar;Targeting+Funded+Masters+in+Europe;AI+%7C+ML+%7C+Healthcare+Research" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0077A8&center=true&vCenter=true&width=580&height=45&lines=Multi-Modal+Deep+Learning+%7C+Medical+AI;Building+BD-TBNet+for+TB+Diagnosis;CGPA+3.99%2F4.00+%7C+3x+Merit+Scholar;Targeting+Funded+Masters+in+Europe;AI+%7C+ML+%7C+Healthcare+Research" alt="Typing SVG" />
 
 <br/><br/>
 
