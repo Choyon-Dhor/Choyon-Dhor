@@ -35,7 +35,7 @@ researcher = {
     "scholarships": ["Vice Chancellor Scholarship (2024)", 
                      "Chairman Scholarship (2025)",
                      "Vice Chancellor Scholarship (2026)"],
-    "current_work": "BD-TBNet — Multi-Modal Deep Learning for TB Diagnosis",
+    "current_work": "----",
     "target"      : "Funded Master's in Europe | AI / ML Research | 2026–27",
     "interests"   : ["Medical AI", "Multi-Modal Deep Learning",
                      "Explainable AI", "Time Series Forecasting"],
@@ -51,16 +51,7 @@ Currently developing **BD-TBNet**, the first multi-modal deep learning model for
 
 ## 🔬 Research
 
-### 🩺 BD-TBNet — Ongoing (2026)
-> **Multi-Modal Deep Learning for Tuberculosis Diagnosis using Chest X-Ray and Clinical Data**  
-> *Bangladesh Population Study — Targeting IEEE JBHI (Q1)*
 
-- Designed a novel **cross-attention fusion architecture**: DenseNet-121 image branch + clinical MLP branch, where clinical features dynamically guide radiological attention
-- Collecting the **first multi-modal TB dataset from Bangladeshi patients** (300+ records) combined with Montgomery (138) + Shenzhen (662) public benchmarks → **~1,100 samples total**
-- Implementing **Grad-CAM** explainability to produce clinician-interpretable heatmaps; validated against known TB lesion anatomy (upper lobe, perihilar regions)
-- Target: **AUC ≥ 0.97, Sensitivity ≥ 90%** | Compared against 6 baselines including CheXNet
-
----
 
 ### ⚡ Short-Term Load Forecasting — Presented (2025)
 > **Context-Selective and Regime-Aware STLF for Bangladesh National Power Grid**  
